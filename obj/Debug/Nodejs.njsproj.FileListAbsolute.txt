@@ -1,0 +1,9 @@
+C:\Users\a0970\Desktop\Nodejs\Nodejs\obj\Debug\Nodejs.njsprojAssemblyReference.cache
+C:\Users\a0970\Desktop\Nodejs\Nodejs\obj\Debug\Nodejs.njsproj.CoreCompileInputs.cache
+C:\Users\a0970\Desktop\Nodejs\Nodejs\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\a0970\Desktop\cloud_for_google\side_project\nodeJSexercise\Nodejs\Nodejs\obj\Debug\Nodejs.njsprojAssemblyReference.cache
+C:\Users\a0970\Desktop\cloud_for_google\side_project\nodeJSexercise\Nodejs\Nodejs\obj\Debug\Nodejs.njsproj.CoreCompileInputs.cache
+C:\Users\a0970\Desktop\cloud_for_google\side_project\nodeJSexercise\Nodejs\Nodejs\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\a0970\Desktop\nodeJSexercise\Nodejs\Nodejs\obj\Debug\Nodejs.njsprojAssemblyReference.cache
+C:\Users\a0970\Desktop\nodeJSexercise\Nodejs\Nodejs\obj\Debug\Nodejs.njsproj.CoreCompileInputs.cache
+C:\Users\a0970\Desktop\nodeJSexercise\Nodejs\Nodejs\bin\Microsoft.NodejsTools.WebRole.dll
